@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HotelEase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61C57C14-9ADD-478F-8E90-11C7F5646CD5}|HotelEase\\HotelEase.csproj|c:\\users\\ahmad\\downloads\\winformsprojects\\hotelease\\hotelease\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61C57C14-9ADD-478F-8E90-11C7F5646CD5}|HotelEase\\HotelEase.csproj|solutionrelative:hotelease\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C57C14-9ADD-478F-8E90-11C7F5646CD5}|HotelEase\\HotelEase.csproj|c:\\users\\ahmad\\downloads\\winformsprojects\\hotelease\\hotelease\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61C57C14-9ADD-478F-8E90-11C7F5646CD5}|HotelEase\\HotelEase.csproj|solutionrelative:hotelease\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C57C14-9ADD-478F-8E90-11C7F5646CD5}|HotelEase\\HotelEase.csproj|C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HotelEase\\hotelease\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C57C14-9ADD-478F-8E90-11C7F5646CD5}|HotelEase\\HotelEase.csproj|solutionrelative:hotelease\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C57C14-9ADD-478F-8E90-11C7F5646CD5}|HotelEase\\HotelEase.csproj|C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HotelEase\\hotelease\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61C57C14-9ADD-478F-8E90-11C7F5646CD5}|HotelEase\\HotelEase.csproj|solutionrelative:hotelease\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C57C14-9ADD-478F-8E90-11C7F5646CD5}|HotelEase\\HotelEase.csproj|C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HotelEase\\hotelease\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C57C14-9ADD-478F-8E90-11C7F5646CD5}|HotelEase\\HotelEase.csproj|solutionrelative:hotelease\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C57C14-9ADD-478F-8E90-11C7F5646CD5}|HotelEase\\HotelEase.csproj|C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HotelEase\\hotelease\\guests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C57C14-9ADD-478F-8E90-11C7F5646CD5}|HotelEase\\HotelEase.csproj|solutionrelative:hotelease\\guests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HotelEase\\HotelEase\\Login.cs",
+              "RelativeDocumentMoniker": "HotelEase\\Login.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HotelEase\\HotelEase\\Login.cs [Design]",
+              "RelativeToolTip": "HotelEase\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:37:23.156Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reports.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HotelEase\\HotelEase\\Reports.cs",
+              "RelativeDocumentMoniker": "HotelEase\\Reports.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HotelEase\\HotelEase\\Reports.cs",
+              "RelativeToolTip": "HotelEase\\Reports.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:05:32.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reports.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HotelEase\\HotelEase\\Reports.cs",
+              "RelativeDocumentMoniker": "HotelEase\\Reports.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HotelEase\\HotelEase\\Reports.cs [Design]",
+              "RelativeToolTip": "HotelEase\\Reports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:53:58.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HotelEase\\HotelEase\\Dashboard.cs",
+              "RelativeDocumentMoniker": "HotelEase\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HotelEase\\HotelEase\\Dashboard.cs",
+              "RelativeToolTip": "HotelEase\\Dashboard.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAawCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:48:03.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HotelEase\\HotelEase\\Dashboard.cs",
+              "RelativeDocumentMoniker": "HotelEase\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HotelEase\\HotelEase\\Dashboard.cs [Design]",
+              "RelativeToolTip": "HotelEase\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:31:22.625Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Guests.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HotelEase\\HotelEase\\Guests.cs",
+              "RelativeDocumentMoniker": "HotelEase\\Guests.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HotelEase\\HotelEase\\Guests.cs",
+              "RelativeToolTip": "HotelEase\\Guests.cs",
+              "ViewState": "AgIAAEABAAAAAAAAAAAuwFMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:02:33.543Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
